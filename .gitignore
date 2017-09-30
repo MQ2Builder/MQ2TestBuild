@@ -1,0 +1,16 @@
+*.vcxproj.user
+*.VC.opendb
+*.sdf
+*.suo
+.vs/
+
+*.exp
+*.pdb
+*.map
+
+Debug/
+Intermediate/
+ISXEQ*Intermediate
+
+
+UpgradeLog.htm
